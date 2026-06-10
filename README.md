@@ -53,8 +53,9 @@ The optimization model can operate in two modes:
 
 1. **Renewable Energy Data**: Hourly capacity factors by location and technology
 2. **Demand Data**: Hourly electricity demand by county
-3. **Technology Parameters**: Cost and performance characteristics
-4. **Geographic Data**: County boundaries and renewable resource areas
+3. **Transmission Network**: County-to-county transmission network
+4. **Technology Parameters**: Cost and performance characteristics
+5. **Geographic Data**: County boundaries and renewable resource areas
 
 
 ## Dependencies
